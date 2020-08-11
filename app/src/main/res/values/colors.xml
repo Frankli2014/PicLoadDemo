@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="base_color">#1b8eef</color>
+    <!-- 按钮绿色颜色值-->
+    <color name="button_green">#44b46a</color>
+    <color name="yellow">#ffCC00</color>
+    <color name="green">#339933</color>
+    <color name="red">#FFFF0000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
